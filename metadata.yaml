@@ -1,0 +1,27 @@
+_repo: Witness-for-the-Defence_12535
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mason, A. E. W. (Alfred Edward Woodley)
+    alias: Mason, Alfred Edward Woodley
+    birthdate: 1865
+    deathdate: 1948
+    gutenberg_agent_id: '1564'
+    url: http://www.gutenberg.org/2009/agents/1564
+    wikipedia: http://en.wikipedia.org/wiki/A._E._W._Mason
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Legal stories'
+- !lcc 'PR'
+- GITenberg
+title: Witness for the Defence
+url: http://www.gutenberg.org/ebooks/12535
